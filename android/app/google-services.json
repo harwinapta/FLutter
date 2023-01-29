@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1010558753559",
+    "firebase_url": "https://iotharwin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotharwin",
+    "storage_bucket": "iotharwin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010558753559:android:829f8e348152bd9f347552",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010558753559-94g365ni1tb6eq913n2vvcefbn9bri63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwScBvoihAeIOeSl1j_cCjMi00yUkVns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010558753559-94g365ni1tb6eq913n2vvcefbn9bri63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010558753559-ub79b4cimprom12ht39c3s68ng7ut3ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tubes1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010558753559:android:09f52a08c02066c4347552",
+        "android_client_info": {
+          "package_name": "com.example.tubes1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010558753559-94g365ni1tb6eq913n2vvcefbn9bri63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwScBvoihAeIOeSl1j_cCjMi00yUkVns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010558753559-94g365ni1tb6eq913n2vvcefbn9bri63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010558753559-ub79b4cimprom12ht39c3s68ng7ut3ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tubes1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
